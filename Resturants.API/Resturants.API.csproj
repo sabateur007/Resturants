@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Resturants.Application\Resturants.Application.csproj" />
+    <ProjectReference Include="..\Resturants.Infra\Resturants.Infra.csproj" />
   </ItemGroup>
 
 </Project>

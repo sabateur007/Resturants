@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Resturants.API/1.0.0": {
+        "dependencies": {
+          "Resturants.Application": "1.0.0"
+        },
         "runtime": {
           "Resturants.API.dll": {}
+        }
+      },
+      "Resturants.Application/1.0.0": {
+        "dependencies": {
+          "Resturants.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Resturants.Application.dll": {}
+        }
+      },
+      "Resturants.Domain/1.0.0": {
+        "runtime": {
+          "Resturants.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Resturants.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resturants.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Resturants.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

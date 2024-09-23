@@ -1,0 +1,12 @@
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\bin\Debug\net8.0\Resturants.Domain.deps.json
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\bin\Debug\net8.0\Resturants.Domain.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\bin\Debug\net8.0\Resturants.Domain.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.AssemblyInfoInputs.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.AssemblyInfo.cs
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.sourcelink.json
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\refint\Resturants.Domain.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\Resturants.Domain.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Domain\obj\Debug\net8.0\ref\Resturants.Domain.dll

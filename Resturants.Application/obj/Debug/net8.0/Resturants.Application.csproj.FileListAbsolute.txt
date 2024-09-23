@@ -1,0 +1,16 @@
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\bin\Debug\net8.0\Resturants.Application.deps.json
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\bin\Debug\net8.0\Resturants.Application.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\bin\Debug\net8.0\Resturants.Application.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\bin\Debug\net8.0\Resturants.Domain.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\bin\Debug\net8.0\Resturants.Domain.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.csproj.AssemblyReference.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.AssemblyInfoInputs.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.AssemblyInfo.cs
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.sourcelink.json
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturan.C0DF9DBE.Up2Date
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\refint\Resturants.Application.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\Resturants.Application.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.Application\obj\Debug\net8.0\ref\Resturants.Application.dll

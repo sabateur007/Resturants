@@ -23,3 +23,10 @@ C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\re
 C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\Resturants.API.pdb
 C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\Resturants.API.genruntimeconfig.cache
 C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\ref\Resturants.API.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\bin\Debug\net8.0\Resturants.Application.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\bin\Debug\net8.0\Resturants.Domain.dll
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\bin\Debug\net8.0\Resturants.Application.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\bin\Debug\net8.0\Resturants.Domain.pdb
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\Resturants.API.csproj.AssemblyReference.cache
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\Resturants.API.sourcelink.json
+C:\Users\Aniket singh\source\repos\Resturants\Resturants.API\obj\Debug\net8.0\Resturan.4D66EC98.Up2Date
